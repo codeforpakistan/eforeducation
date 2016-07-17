@@ -1,3 +1,4 @@
+See this URL for details: http://devpost.com/software/e-for-education
 
 TITLE: 
 Narrow - Fully Responsive Free HTML5 template
